@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="image">allenaaa.png</file>
+        <file>myqss.qss</file>
+        <file>古天乐.png</file>
+        <file>渣渣辉.png</file>
+        <file>qq 头像 1.png</file>
+        <file>qq2.png</file>
+        <file>brg.jpeg</file>
+    </qresource>
+</RCC>
